@@ -1,6 +1,6 @@
 <h3>Select Cool<h3>
 
-<strong>SelectCool</strong> is created to be able to use more accessible Select Elements and to improve UX. 
+<strong>SelectCool</strong> is created to be able to use more accessible Select Elements and improve UX. 
 
 The idea is creating Select Elements with a div box and assigning Select Element behaviours with a little Js code.
 
