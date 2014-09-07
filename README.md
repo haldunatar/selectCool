@@ -8,7 +8,7 @@ Check a simple Select Element
 
 http://haldunatar.github.io/selectCool/select_simple.html
 
-Check a Select Element with multi select options:
+Select Element with multi select options:
 
 http://haldunatar.github.io/selectCool/select_multi.html
 
