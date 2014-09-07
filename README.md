@@ -1,6 +1,6 @@
 <h3>Select Cool<h3>
 
-Select Elements have limited styleable abilites. Most of the time, we need to style them to be able to use them on our design.
+<strong>SelectCool</strong> is created to be able to use more accessible Select Elements and to improve UX. 
 
 With a little Js code adding Select Element behaviours to a div is one smart way to create awesome Select Elements on our page.
 
